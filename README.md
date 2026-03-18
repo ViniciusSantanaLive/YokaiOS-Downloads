@@ -40,7 +40,7 @@ ISOs do Windows com a experiência inicial simplificada — sem as telas chatas 
 
 | Versão | Link |
 |---|---|
-| Windows 11 YokaiOS | [⬇️ Baixar win11-YokaiOS]([https://www.mediafire.com/file/esgw3rmxzkawfoz/win11-YokaiOS.iso/file]) |
+| Windows 11 YokaiOS | [⬇️ Baixar win11-YokaiOS](https://www.mediafire.com/file/esgw3rmxzkawfoz/win11-YokaiOS.iso/file) |
 
 ### Windows 10 — YokaiOS Edition
 
