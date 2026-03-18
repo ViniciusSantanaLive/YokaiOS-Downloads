@@ -316,6 +316,6 @@ Verifica e instala atualizações do YokaiOS automaticamente. Exibe changelog da
 
 <div align="center">
 
-Feito com 🔥 por [ViniciusSantanaLive](https://github.com/ViniciusSantanaLive)
+Feito para quem busca o melhor desempenho!
 
 </div>
